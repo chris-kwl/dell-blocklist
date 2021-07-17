@@ -1,0 +1,6 @@
+#downloads.dell.com
+dellupdater.dell.com
+content.dellsupportcenter.com
+apigtwb2c.us.dell.com
+afcs.dell.com
+cloud.dell.com
